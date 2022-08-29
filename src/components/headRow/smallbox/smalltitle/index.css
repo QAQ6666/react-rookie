@@ -1,0 +1,6 @@
+.smalltitle{
+    color: cadetblue;
+    font-size: .75rem;
+    display: flex;
+    justify-content:  space-between
+}

@@ -1,0 +1,9 @@
+.salePanels{
+    display:flex
+}
+.salePanels > div:first-child{
+    flex: 0 0 70%;
+}
+.salePanels > div:last-child{
+    flex:0 0 30%
+}
